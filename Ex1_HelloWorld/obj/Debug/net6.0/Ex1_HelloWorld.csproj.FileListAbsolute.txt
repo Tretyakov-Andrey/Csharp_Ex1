@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.exe
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.deps.json
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.runtimeconfig.json
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.dll
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\bin\Debug\net6.0\Ex1_HelloWorld.pdb
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.dll
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\refint\Ex1_HelloWorld.dll
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.pdb
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\Ex1_HelloWorld.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\ДЗ GB\C#\C#_Lekcia1\Ex1_HelloWorld\obj\Debug\net6.0\ref\Ex1_HelloWorld.dll
